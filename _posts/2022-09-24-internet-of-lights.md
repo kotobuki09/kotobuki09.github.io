@@ -9,9 +9,18 @@ image: Pic4.jpg
 
 # Sharper Palermo 2022
 [Sharper Palermo 2022](https://www.sharper-night.it/sharper-palermo/).
-![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/ERN2021-Flyer_2_1.png "Flyer1")
-![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/ERN2021-Flyer_2_2.png "Flyer2")
 
 
-![alt text](https://user-images.githubusercontent.com/8409329/32801138-33a72030-c94a-11e7-8a62-6184e6df5a8f.png "Millennial Demo Image")
+![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/Pic1.jpg "Pic1")
+![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/Pic2.jpg "Pic2")
+![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/ern2021_1.jpg "ePic1")
+![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/ern2021_2.jpg "ePic2")
+![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/ern2021_3.jpg "ePic3")
+![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/ern2021_4.jpg "ePic4")
+
+For more information:
+[ENLIGHT’EM - Sharper Palermo 2021](https://enlightem.eu/results/communication/european-researchers-night-2021-palermo/).
+
+
+
 
