@@ -10,7 +10,7 @@ image: lifi.jpeg
 # LED
 
 
-![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/lifi-3.png "Pic1")
+![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/lifi-3.png "lifi1")
 
-![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/lifi-2.png "Pic1")
+![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/lifi-2.png "lifi1")
 
