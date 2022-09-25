@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sharper Night 2021"
+title: "Internet of Light"
 author: "Kien Ngo"
 categories: LiFi
 tags: [lifi,ern]
