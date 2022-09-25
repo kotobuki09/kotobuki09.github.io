@@ -9,18 +9,16 @@ image: lifi.jpeg
 
 # LED
 
-
 ![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/lifi-3.jpg "lifi1")
 
 
 ![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/lifi-2.png "lifi1")
 
 
-![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/Li-Fi-working.jpg "lifiworking")
-
-
 
 ![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/how-lifi-works-1.png "howlifi")
+
+![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/Li-Fi-working.jpg "lifiworking")
 
 
 Learn more about us:
