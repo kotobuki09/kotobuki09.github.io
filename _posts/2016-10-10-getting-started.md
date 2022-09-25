@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
-categories: documentation
-tags: [documentation,sample]
-image: city-1.jpg
+title: "Sharper Night 2021"
+author: "Kien Ngo"
+categories: LiFi
+tags: [lifi,ern]
+image: Pic4.jpg
 ---
 
 # Millennial
