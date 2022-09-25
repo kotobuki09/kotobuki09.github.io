@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "From LED to the Future"
+author: "Kien Ngo"
 categories: documentation
 tags: [documentation,sample]
-image: city-1.jpg
+image: lifi.jpeg
 ---
 
 # Millennial
