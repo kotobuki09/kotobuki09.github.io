@@ -14,3 +14,6 @@ image: lifi.jpeg
 
 ![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/lifi-2.png "lifi1")
 
+
+Learn more about us:
+[ENLIGHT’EM](https://enlightem.eu/)
