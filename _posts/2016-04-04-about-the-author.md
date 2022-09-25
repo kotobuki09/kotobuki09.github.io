@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sharper Ning 2021"
+title: "Sharper Night 2021"
 author: "Kien Ngo"
 categories: facts
 tags: [ERN]
