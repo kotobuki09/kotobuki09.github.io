@@ -7,7 +7,7 @@ tags: [lifi,ern]
 image: Pic4.jpg
 ---
 
-# Sharper Palermo 2022
+## Sharper Palermo 2022
 [Sharper Palermo 2022](https://www.sharper-night.it/sharper-palermo/).
 
 
