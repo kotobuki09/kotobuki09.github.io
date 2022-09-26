@@ -17,7 +17,14 @@ The data flow arriving from the network or from a LAN is encoded and modulated b
 
 At the other end of the wireless communication we find a receptor of light impulses (an optical sensor such as a camera), capable of detecting and decoding the signals transmitted by the LED, then sending them to a software that will process them and finally convert them into electrical signals that can be read by any computer or mobile device. 
 
+In the future, the mobile with LiFi integrated should act as normal as wifi module.
 ![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/Li-Fi-working.jpg "lifiworking")
 
-
+The final poster to introduce Visible Light Communication
 ![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/IoL2022.png "IoL2021")
+
+
+<img src="https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/qr4.png" width="200" />
+
+Learn more about us:
+[ENLIGHT’EM](https://enlightem.eu/)
