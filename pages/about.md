@@ -4,4 +4,4 @@ title: About
 permalink: /about
 ---
 
-Millennial is a minimalist Jekyll theme. 
+This page is used for everyone who want to learn more about light and visible light communication during the Sharper Night event. 
