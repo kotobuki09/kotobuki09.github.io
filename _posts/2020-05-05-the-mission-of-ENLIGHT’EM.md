@@ -16,5 +16,5 @@ ENLIGHT’EM will train a new generation of innovators and provide them with the
 Scan this QR code to learn more about us:
 
 <img src="https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/qr4.png" width="200" />
-Learn more about us:
+
 [ENLIGHT’EM](https://enlightem.eu/)
