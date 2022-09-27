@@ -2,7 +2,7 @@
 layout: post
 title: "Internet of Lights"
 author: "Kien Ngo"
-categories: LiFi
+categories: application
 tags: [lifi,ern]
 image: Pic4.jpg
 ---
