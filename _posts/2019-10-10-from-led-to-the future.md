@@ -23,6 +23,7 @@ Unlike the radio or microwave spectrum, the visible spectrum has a large - thoug
 
 Optical wireless telecommunication offers other advantages over Wi-Fi. First of all, a Li-Fi network does not require any new system or the installation of antennas or repeaters: you can take advantage of existing LED lighting networks (home lights, for example, or the public lighting system on the street ) coupled with normal cameras (for example the webcams of our PCs or the cameras of our mobile phones). The various light sources - usually composed of more than one LED - could communicate simultaneously with multiple devices, sending different signals to each of them: in this way the frequency spectrum could be used more efficiently and without creating typical interference. of other electromagnetic waves. 
 
+Scan this QR code to learn more about us:
 
 <img src="https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/qr4.png" width="200" />
 

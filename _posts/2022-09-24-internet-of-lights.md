@@ -23,6 +23,7 @@ In the future, the mobile with LiFi integrated should act as normal as wifi modu
 The final poster to introduce Visible Light Communication
 ![alt text](https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/IoL2022.png "IoL2021")
 
+Scan this QR code to learn more about us:
 
 <img src="https://raw.githubusercontent.com/kotobuki09/kotobuki09.github.io/gh-pages/assets/img/qr4.png" width="200" />
 
