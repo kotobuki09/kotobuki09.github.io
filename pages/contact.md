@@ -10,6 +10,6 @@ permalink: /contact
 
  University of Palermo
 
- Email: kien.ngotrung@community.unipa.it
+ Email: kien.ngotrung@unipa.it
 
  
