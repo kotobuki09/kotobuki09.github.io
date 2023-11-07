@@ -2,7 +2,7 @@
 layout: post
 title: "From LED to the Future"
 author: "Kien Ngo"
-categories: documentation
+categories: [documentation, facts]
 tags: [documentation,sample]
 image: lifi.jpeg
 ---
