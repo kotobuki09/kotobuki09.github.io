@@ -13,6 +13,7 @@ Scan this QR code to learn more about us:
 
 [ENLIGHT’EM](https://enlightem.eu/)
 
+My Profile: [https://kngo.netlify.app/](https://kngo.netlify.app/)
 
 ## License
 
